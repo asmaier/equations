@@ -1,12 +1,12 @@
 % Koma-Script machts möglich:
 \documentclass[a4paper,
-					12pt,
+					fontsize=12pt,
 					twoside,
 					pagesize,
 					%openright,
-					cleardoubleplain,
+					cleardoublepage=plain,
 					headsepline,
-					bibtotoc
+					bibliography=totoc
 					%titlepage
 					]{scrbook}
 
@@ -2783,7 +2783,7 @@ with
 \int \frac{\vec{C}(\vec{x}'')}{\abs{\vec{x'}-\vec{x}''}} dV'' dV'
 \end{align}
 
-\bibliographystyle{aa}
-\bibliography{../promotion.bib}
+\bibliographystyle{apalike}
+\bibliography{promotion.bib}
 
 \end{document}
