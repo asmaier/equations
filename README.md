@@ -1,7 +1,7 @@
 # Equations of fluid dynamics
  An experiment in the conversion of LaTeX to HTML. The HTML output can be seen at
 
- - http(s)://asmaier.github.io/equations
+ - https://asmaier.github.io/equations
 
 
 ## Usage
