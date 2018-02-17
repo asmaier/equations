@@ -1,4 +1,9 @@
-body { font-size: 150%; }
+body {
+    font-size: 150%;
+    margin: auto;
+    max-width: 45em;
+    line-height: 1.3;
+}
 /*======================================================================
  Core CSS for LaTeXML documents converted to (X)HTML */
 /* Generic Page layout */
